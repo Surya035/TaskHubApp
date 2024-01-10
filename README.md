@@ -27,3 +27,9 @@ Category Organization: Categorize tasks based on their nature or project phase. 
 Task Status Tracking: Easily monitor the progress of your tasks by marking them as New, In Progress, or Completed. Keep your team in sync and maintain a clear understanding of each task's current status.
 Title and Description: Provide clarity and context by adding a title and detailed description to each task. Ensure everyone is on the same page with comprehensive information for each item on your to-do list.
 Local Storage: TaskHub takes advantage of local storage, ensuring that your task data is securely stored on your device. Enjoy the convenience of accessing your to-do list even when offline, with seamless synchronization when you're back online.
+
+Screenshots:
+![Screenshot2](https://github.com/Surya035/TaskHubApp/assets/85677647/0d93d417-623c-449b-a520-311ed2785d28)
+![Screenshot1](https://github.com/Surya035/TaskHubApp/assets/85677647/dc9b92b4-2898-425f-9b1c-80332b9c1e3b)
+![Screenshot3](https://github.com/Surya035/TaskHubApp/assets/85677647/b578c950-e742-4776-8307-0ea2f004f71a)
+
